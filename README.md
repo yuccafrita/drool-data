@@ -15,9 +15,6 @@ Segmenting by location (American-based vs. Foreign-based), there was <b> not muc
     
 <iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/1c96HgGYHpxlHjhD29UtoowZVsKaqDGPnDcP5qAzfz3E/pubchart?oid=1498516026&amp;format=interactive"></iframe>
     
-    The story changes once the composition of student population changed to percentages.  There is a noticeable <b> higher percentage on foreign-based students </b> in 2017 vs. 5 years ago (67% vs. 65%).  
+The story changes once the composition of student population changed to percentages.  There is a noticeable <b> higher percentage on foreign-based students </b> in 2017 vs. 5 years ago (67% vs. 65%).  
 
 
-    
-    
-<iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/1c96HgGYHpxlHjhD29UtoowZVsKaqDGPnDcP5qAzfz3E/pubchart?oid=1498516026&amp;format=interactive"></iframe>
