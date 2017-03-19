@@ -19,9 +19,9 @@ The story changes once I looked at the composition of student population by loca
 
 
 Sources:
-Copy of DataVizForAll edX Public Survey, Spring 2017 (responses).xls, downloaded 14 March 2017
-Original Data Visualization for All edX course enrollment, March 6th 2017
-data downloaded, de-identified, and cleaned by Jack Dougherty, Trinity College
+Copy of DataVizForAll edX Public Survey, Spring 2017 (responses).xls, downloaded 14 March 2017.
+Original Data Visualization for All edX course enrollment, March 6th 2017.
+Original data downloaded, de-identified, and cleaned by Jack Dougherty, Trinity College.
 
 "The Digital Degree." The Economist, 28 Jun. 2014, www.economist.com/news/briefing. Accessed 18 Mar 2017.
 *http://www.economist.com/news/briefing/21605899-staid-higher-education-business-about-experience-welcome-earthquake-digital
