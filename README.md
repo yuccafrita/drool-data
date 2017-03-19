@@ -13,6 +13,6 @@ DataVizForAll has a <b> slightly lower student count </b> in 2017 edX five years
     
 <iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/1c96HgGYHpxlHjhD29UtoowZVsKaqDGPnDcP5qAzfz3E/pubchart?oid=1498516026&amp;format=interactive"></iframe>
     
-The story changes once I looked at the composition of student population by location in percentages.  There is a noticeable <b> higher percentage of foreign-based students </b> in 2017 vs. 5 years ago (67% vs. 65%).  
+The story changes once I looked at the composition of student population by location in percentages.  There is a noticeable <b> higher percentage of foreign-based students </b> in 2017 vs. 5 years ago (67% vs. 65%).   In addition, American-based students is a <b> lower percentage </b> in 2017 relative to five years ago (33% vs. 35%). 
 
 <iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/1c96HgGYHpxlHjhD29UtoowZVsKaqDGPnDcP5qAzfz3E/pubchart?oid=2121277942&amp;format=interactive"></iframe>
