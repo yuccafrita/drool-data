@@ -19,6 +19,11 @@ The story becomes more interesting once I looked at the composition of student p
 
 This leads me to inquire why edX is so much popular among Foreign-based students and to find out why there is a lower percentage of American-based students taking DataVizForAll compared to overall edX five years ago.  The article from The Economist helped provide some answers.
 
+One last chart I created graphed the previous education level attained and location of the DataVizForAll students.  The answer to my curiousity was that there was <b> no difference in education level </b> between American-based students and Foreign-based students who take DataVizForAll.  Almost 50% taking the class from either groups have graduate degrees and above, followed by one-third who have college degrees.  Thinking that there would be differences, it showed that there are more similar in education level attained. 
+
+<iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/1c96HgGYHpxlHjhD29UtoowZVsKaqDGPnDcP5qAzfz3E/pubchart?oid=514105416&amp;format=interactive"></iframe>
+
+
 Sources:
 Copy of DataVizForAll edX Public Survey, Spring 2017 (responses).xls, downloaded 14 March 2017.
 Original Data Visualization for All edX course enrollment, March 6th 2017.
